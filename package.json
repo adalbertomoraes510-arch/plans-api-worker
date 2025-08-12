@@ -1,0 +1,13 @@
+{
+  "name": "plans-api-worker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo build handled by Cloudflare",
+    "start": "wrangler dev"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "0.10.4"
+  }
+}
