@@ -1,0 +1,7 @@
+name = "plans-api-worker"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+
+[vars]
+# Pode deixar * como padrão de CORS ou trocar pelo domínio da sua planilha/app
+CORS_ORIGIN = "*"
