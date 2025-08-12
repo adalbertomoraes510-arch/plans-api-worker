@@ -1,4 +1,4 @@
-name = "plans-api-worker"
+name = "processo001"
 main = "src/index.js"
 compatibility_date = "2024-11-01"
 
